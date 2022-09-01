@@ -25,3 +25,4 @@
 [github]: https://github.com/bircanozmen
 [python]: https://www.python.org/
 [java]: https://www.java.com/tr/
+ 
