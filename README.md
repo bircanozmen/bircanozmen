@@ -23,9 +23,9 @@
 [<img align="left" alt="Android" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="HTML" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="HTML" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-
+[css]
 <br />
 
 [android]: https://www.android.com/
@@ -33,6 +33,7 @@
 [python]: https://www.python.org/
 [java]: https://www.java.com/tr/
 [git]: https://git-scm.com/
-
+[html]:https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
  
  
