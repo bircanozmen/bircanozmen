@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
 
